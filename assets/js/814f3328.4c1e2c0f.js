@@ -1,0 +1,1 @@
+(self.webpackChunkdocsv_2=self.webpackChunkdocsv_2||[]).push([[631],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/blog/hello-world"}]}')}}]);
